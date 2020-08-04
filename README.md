@@ -13,4 +13,4 @@ Adds a dropdown for the parameters of a fmod event
 [SerializeField] private string someParameter;
 ```
 Result:
-[](/image/FmodParameterDropdown.png)
+![](https://i.imgur.com/5U2AnQ6.png)
